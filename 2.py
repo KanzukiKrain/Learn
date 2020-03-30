@@ -11,4 +11,4 @@ chrome_options.add_argument("--no-sandbox") #有时浏览器有问题需要加�
 driver = webdriver.Chrome(options=chrome_options) #新版selenium参数名options
 
 
-driver.get("https://www.baidu.com")
+driver.get("https://www.163.com")
